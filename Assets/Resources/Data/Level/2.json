@@ -1,0 +1,67 @@
+{
+    "Waves": [{
+            "WaveInfos": [{
+                "Name": "Circle/EnemyCircle",
+                "Duration": 0.7,
+                "Quantity": 20,
+                "Speed": 3,
+                "Health": 100,
+                "WayIndex": 0
+            }]
+        },{
+            "WaveInfos": [{
+                "Name": "Circle/EnemyCircle",
+                "Duration": 0.5,
+                "Quantity": 15,
+                "Speed": 3,
+                "Health": 300,
+                "WayIndex": 1
+            }]
+        },{
+            "WaveInfos": [{
+                "Name": "Circle/EnemyCircle1",
+                "Duration": 0.5,
+                "Quantity": 10,
+                "Speed": 4,
+                "Health": 500,
+                "WayIndex": 1
+            }]
+        },{
+            "WaveInfos": [{
+                "Name": "Circle/EnemyCircle",
+                "Duration": 0.7,
+                "Quantity": 15,
+                "Speed": 3,
+                "Health": 600,
+                "WayIndex": 0
+            }]
+        },{
+            "WaveInfos": [{
+                "Name": "Circle/EnemyCircle1",
+                "Duration": 0.5,
+                "Quantity": 15,
+                "Speed": 4,
+                "Health": 600,
+                "WayIndex": 0
+            },{
+                "Name": "Circle/EnemyCircle2",
+                "Duration": 1,
+                "Quantity": 10,
+                "Speed": 5,
+                "Health": 1000,
+                "WayIndex": 0
+            }]
+        },
+        {
+            "WaveInfos": [{
+                "Name": "Circle/EnemyCircleBoss",
+                "Duration": 2,
+                "Quantity": 2,
+                "Speed": 2.5,
+                "Health": 5000,
+                "WayIndex": 0,
+                "IsBoss": true
+            }]
+        }
+    ]
+}
